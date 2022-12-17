@@ -9,3 +9,7 @@ module.exports = {
   },
   plugins: []
 };
+
+// https://nerdcave.com/tailwind-cheat-sheet
+// https://github.com/imranhsayed/headless-cms
+// https://tailwindcss.com/docs/installation/framework-guides
